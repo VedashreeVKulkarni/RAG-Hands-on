@@ -1,0 +1,6 @@
+Groups related ideas
+More computational work
+5. Sample Text for Overlap Testing
+Overlap means that the end of one chunk is repeated at the beginning of the next chunk. For example, if a
+splitter uses a chunk size of 500 characters and an overlap of 50 characters, approximately 50 characters from
+the previous chunk are retained in the next chunk. Overlap can help preserve context when a relevant pa
